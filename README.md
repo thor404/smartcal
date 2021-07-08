@@ -1,2 +1,5 @@
-# smartcal
-Smart calculator
+# Smart-Thor
+Smart calculator:
+
+---
+![smartcal](smart-thor.png)
